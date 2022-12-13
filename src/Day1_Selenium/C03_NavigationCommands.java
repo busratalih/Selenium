@@ -3,7 +3,7 @@ package Day1_Selenium;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class NavigationsCommands {
+public class C03_NavigationCommands {
 
     /*
     Invoke Chrome Browser
